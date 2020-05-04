@@ -1,0 +1,10 @@
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\ProceduresAndPassByValueJoelle\ProceduresAndPassByValueJoelle\bin\Debug\ProceduresAndPassByValueJoelle.exe.config
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\ProceduresAndPassByValueJoelle\ProceduresAndPassByValueJoelle\bin\Debug\ProceduresAndPassByValueJoelle.exe
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\ProceduresAndPassByValueJoelle\ProceduresAndPassByValueJoelle\bin\Debug\ProceduresAndPassByValueJoelle.pdb
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\ProceduresAndPassByValueJoelle\ProceduresAndPassByValueJoelle\obj\Debug\ProceduresAndPassByValueJoelle.csprojAssemblyReference.cache
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\ProceduresAndPassByValueJoelle\ProceduresAndPassByValueJoelle\obj\Debug\ProceduresAndPassByValueJoelle.frmProceduresAndPassByValue.resources
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\ProceduresAndPassByValueJoelle\ProceduresAndPassByValueJoelle\obj\Debug\ProceduresAndPassByValueJoelle.Properties.Resources.resources
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\ProceduresAndPassByValueJoelle\ProceduresAndPassByValueJoelle\obj\Debug\ProceduresAndPassByValueJoelle.csproj.GenerateResource.cache
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\ProceduresAndPassByValueJoelle\ProceduresAndPassByValueJoelle\obj\Debug\ProceduresAndPassByValueJoelle.csproj.CoreCompileInputs.cache
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\ProceduresAndPassByValueJoelle\ProceduresAndPassByValueJoelle\obj\Debug\ProceduresAndPassByValueJoelle.exe
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\ProceduresAndPassByValueJoelle\ProceduresAndPassByValueJoelle\obj\Debug\ProceduresAndPassByValueJoelle.pdb
