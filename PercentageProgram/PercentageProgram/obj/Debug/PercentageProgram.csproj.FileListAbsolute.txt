@@ -1,0 +1,10 @@
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\PercentageProgram\PercentageProgram\bin\Debug\PercentageProgram.exe.config
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\PercentageProgram\PercentageProgram\bin\Debug\PercentageProgram.exe
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\PercentageProgram\PercentageProgram\bin\Debug\PercentageProgram.pdb
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\PercentageProgram\PercentageProgram\obj\Debug\PercentageProgram.csprojAssemblyReference.cache
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\PercentageProgram\PercentageProgram\obj\Debug\PercentageProgram.frmPercentageProgram.resources
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\PercentageProgram\PercentageProgram\obj\Debug\PercentageProgram.Properties.Resources.resources
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\PercentageProgram\PercentageProgram\obj\Debug\PercentageProgram.csproj.GenerateResource.cache
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\PercentageProgram\PercentageProgram\obj\Debug\PercentageProgram.csproj.CoreCompileInputs.cache
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\PercentageProgram\PercentageProgram\obj\Debug\PercentageProgram.exe
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\PercentageProgram\PercentageProgram\obj\Debug\PercentageProgram.pdb

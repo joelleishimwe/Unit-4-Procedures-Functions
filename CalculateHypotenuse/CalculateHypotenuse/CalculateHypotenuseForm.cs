@@ -26,6 +26,10 @@ namespace CalculateHypotenuse
             InitializeComponent();
         }
 
+        //Function: Calculate Hypotenuse
+        //Input: double aValue, double bValue
+        //Output: void
+        //Description: a fuction that calculates the hypotenuse of a triangle
         private void CalculateHypotenuse(double aValue, double bValue)
         {
             //declare variables
