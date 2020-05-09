@@ -26,13 +26,17 @@ namespace CalculateHypotenuse
             InitializeComponent();
         }
 
-        private void CalculateHypotenuse(String aValue, String bValue)
+        private void CalculateHypotenuse(double aValue, double bValue)
         {
             //declare variables
             double hypotenuse;
 
             //calculate the hyposenuse
-            hypotenuse = aValue 
+            hypotenuse = Math.Sqrt((Math.Pow(aValue, 2)) * (Math.Pow(bValue,2)));
+            hypotenuse = Math.Round(hypotenuse, 1);
+
+            //display the answer in a message box
+            MessageBox.Show("the hypotenuse is  " + hypotenuse + "  cm", "HYPOTENUSE OF A TRIANGLE");
         }
 
         private void btnCalculate_Click(object sender, EventArgs e)

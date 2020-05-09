@@ -1,0 +1,10 @@
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\CalculateHypotenuse\CalculateHypotenuse\bin\Debug\CalculateHypotenuse.exe.config
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\CalculateHypotenuse\CalculateHypotenuse\bin\Debug\CalculateHypotenuse.exe
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\CalculateHypotenuse\CalculateHypotenuse\bin\Debug\CalculateHypotenuse.pdb
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\CalculateHypotenuse\CalculateHypotenuse\obj\Debug\CalculateHypotenuse.csprojAssemblyReference.cache
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\CalculateHypotenuse\CalculateHypotenuse\obj\Debug\CalculateHypotenuse.frmCalculateHypotenuse.resources
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\CalculateHypotenuse\CalculateHypotenuse\obj\Debug\CalculateHypotenuse.Properties.Resources.resources
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\CalculateHypotenuse\CalculateHypotenuse\obj\Debug\CalculateHypotenuse.csproj.GenerateResource.cache
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\CalculateHypotenuse\CalculateHypotenuse\obj\Debug\CalculateHypotenuse.csproj.CoreCompileInputs.cache
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\CalculateHypotenuse\CalculateHypotenuse\obj\Debug\CalculateHypotenuse.exe
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\CalculateHypotenuse\CalculateHypotenuse\obj\Debug\CalculateHypotenuse.pdb
