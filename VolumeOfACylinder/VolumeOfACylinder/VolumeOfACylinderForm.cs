@@ -26,9 +26,32 @@ namespace VolumeOfACylinder
             InitializeComponent();
         }
 
+        private void CalculateCylinder(double radius, double height)
+        {
+            //declare local variables 
+            double volume;
+
+            //declare local constants
+            const double PI = 3.14;
+
+            //calculate the volume of a cylinder using the formula
+            volume = PI * (Math.Pow(radius, 2)) * height;
+
+            //display the volume in a message box
+            MessageBox.Show("the volume is  " + Math.Round(volume, 2) + "cm", "VOLUME OF A CYLINDER");
+        }
+       
         private void btnCalculate_Click(object sender, EventArgs e)
         {
+            //declare local variables 
+            double usersRadius, usersHeight;
 
+            //assigne the variables to the correct textbox
+            usersRadius = Double.Parse(this.txtRadius.Text);
+            usersHeight = Double.Parse(this.txtHeight.Text);
+
+            //the function that calculates the volume of the cylinder
+            this.CalculateCylinder(usersRadius, usersHeight);
         }
     }
 }

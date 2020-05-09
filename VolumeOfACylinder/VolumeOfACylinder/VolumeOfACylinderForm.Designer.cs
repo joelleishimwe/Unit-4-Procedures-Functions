@@ -30,8 +30,8 @@
         {
             this.lblRadius = new System.Windows.Forms.Label();
             this.lblHeight = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.txtRadius = new System.Windows.Forms.TextBox();
+            this.txtHeight = new System.Windows.Forms.TextBox();
             this.btnCalculate = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
@@ -55,19 +55,19 @@
             this.lblHeight.TabIndex = 1;
             this.lblHeight.Text = "Choose a number to represent the height (cm)";
             // 
-            // textBox1
+            // txtRadius
             // 
-            this.textBox1.Location = new System.Drawing.Point(552, 59);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 20);
-            this.textBox1.TabIndex = 2;
+            this.txtRadius.Location = new System.Drawing.Point(552, 59);
+            this.txtRadius.Name = "txtRadius";
+            this.txtRadius.Size = new System.Drawing.Size(100, 20);
+            this.txtRadius.TabIndex = 2;
             // 
-            // textBox2
+            // txtHeight
             // 
-            this.textBox2.Location = new System.Drawing.Point(493, 153);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 20);
-            this.textBox2.TabIndex = 3;
+            this.txtHeight.Location = new System.Drawing.Point(493, 153);
+            this.txtHeight.Name = "txtHeight";
+            this.txtHeight.Size = new System.Drawing.Size(100, 20);
+            this.txtHeight.TabIndex = 3;
             // 
             // btnCalculate
             // 
@@ -86,8 +86,8 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(809, 271);
             this.Controls.Add(this.btnCalculate);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtHeight);
+            this.Controls.Add(this.txtRadius);
             this.Controls.Add(this.lblHeight);
             this.Controls.Add(this.lblRadius);
             this.Name = "frmVolumeOfACylinder";
@@ -101,8 +101,8 @@
 
         private System.Windows.Forms.Label lblRadius;
         private System.Windows.Forms.Label lblHeight;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox txtRadius;
+        private System.Windows.Forms.TextBox txtHeight;
         private System.Windows.Forms.Button btnCalculate;
     }
 }
