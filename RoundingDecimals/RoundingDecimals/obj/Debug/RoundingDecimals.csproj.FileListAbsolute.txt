@@ -1,0 +1,10 @@
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\RoundingDecimals\RoundingDecimals\bin\Debug\RoundingDecimals.exe.config
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\RoundingDecimals\RoundingDecimals\bin\Debug\RoundingDecimals.exe
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\RoundingDecimals\RoundingDecimals\bin\Debug\RoundingDecimals.pdb
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\RoundingDecimals\RoundingDecimals\obj\Debug\RoundingDecimals.csprojAssemblyReference.cache
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\RoundingDecimals\RoundingDecimals\obj\Debug\RoundingDecimals.Properties.Resources.resources
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\RoundingDecimals\RoundingDecimals\obj\Debug\RoundingDecimals.frmRoundingDecimals.resources
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\RoundingDecimals\RoundingDecimals\obj\Debug\RoundingDecimals.csproj.GenerateResource.cache
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\RoundingDecimals\RoundingDecimals\obj\Debug\RoundingDecimals.csproj.CoreCompileInputs.cache
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\RoundingDecimals\RoundingDecimals\obj\Debug\RoundingDecimals.exe
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\RoundingDecimals\RoundingDecimals\obj\Debug\RoundingDecimals.pdb
