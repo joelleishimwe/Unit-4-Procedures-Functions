@@ -1,0 +1,10 @@
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\PictureClicked\PictureClicked\bin\Debug\PictureClicked.exe.config
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\PictureClicked\PictureClicked\bin\Debug\PictureClicked.exe
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\PictureClicked\PictureClicked\bin\Debug\PictureClicked.pdb
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\PictureClicked\PictureClicked\obj\Debug\PictureClicked.csprojAssemblyReference.cache
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\PictureClicked\PictureClicked\obj\Debug\PictureClicked.frmPictureClicked.resources
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\PictureClicked\PictureClicked\obj\Debug\PictureClicked.Properties.Resources.resources
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\PictureClicked\PictureClicked\obj\Debug\PictureClicked.csproj.GenerateResource.cache
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\PictureClicked\PictureClicked\obj\Debug\PictureClicked.csproj.CoreCompileInputs.cache
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\PictureClicked\PictureClicked\obj\Debug\PictureClicked.exe
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\PictureClicked\PictureClicked\obj\Debug\PictureClicked.pdb
