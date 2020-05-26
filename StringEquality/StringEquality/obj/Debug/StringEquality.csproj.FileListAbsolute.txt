@@ -1,0 +1,10 @@
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\StringEquality\StringEquality\bin\Debug\StringEquality.exe.config
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\StringEquality\StringEquality\bin\Debug\StringEquality.exe
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\StringEquality\StringEquality\bin\Debug\StringEquality.pdb
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\StringEquality\StringEquality\obj\Debug\StringEquality.csprojAssemblyReference.cache
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\StringEquality\StringEquality\obj\Debug\StringEquality.Properties.Resources.resources
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\StringEquality\StringEquality\obj\Debug\StringEquality.frmStringEquality.resources
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\StringEquality\StringEquality\obj\Debug\StringEquality.csproj.GenerateResource.cache
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\StringEquality\StringEquality\obj\Debug\StringEquality.csproj.CoreCompileInputs.cache
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\StringEquality\StringEquality\obj\Debug\StringEquality.exe
+C:\ICS3U Programming - Joelle\Unit 4 Procedures & Functions\StringEquality\StringEquality\obj\Debug\StringEquality.pdb
